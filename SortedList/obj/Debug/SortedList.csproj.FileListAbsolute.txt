@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\SortedList\SortedList\bin\Debug\SortedList.exe.config
+C:\Users\Пользователь\Desktop\SortedList\SortedList\bin\Debug\SortedList.exe
+C:\Users\Пользователь\Desktop\SortedList\SortedList\bin\Debug\SortedList.pdb
+C:\Users\Пользователь\Desktop\SortedList\SortedList\obj\Debug\SortedList.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\SortedList\SortedList\obj\Debug\SortedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\SortedList\SortedList\obj\Debug\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\SortedList\SortedList\obj\Debug\SortedList.exe
+C:\Users\Пользователь\Desktop\SortedList\SortedList\obj\Debug\SortedList.pdb
